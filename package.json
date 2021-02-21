@@ -1,0 +1,22 @@
+{
+  "name": "taller3angular",
+  "version": "1.0.0",
+  "description": "taller 3 diseño con angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadiraMedinaDev/Taller3Angular.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Yadira Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YadiraMedinaDev/Taller3Angular/issues"
+  },
+  "homepage": "https://github.com/YadiraMedinaDev/Taller3Angular#readme"
+}
